@@ -1,3 +1,16 @@
+!readme first!
+==============
+
+This repo is forked from:: 
+
+    https://github.com/curtacircuitos/pcb-tools
+
+And I'm using it to experiment on svg / gerber files for my Cyclone PCB factory:: 
+
+    http://reprap.org/wiki/Cyclone_PCB_Factory
+
+Original readme follows
+
 pcb-tools
 ============
 [![Travis CI Build Status](https://travis-ci.org/curtacircuitos/pcb-tools.svg?branch=master)](https://travis-ci.org/curtacircuitos/pcb-tools)
